@@ -1,2 +1,2 @@
 # MERN_Development
- Reintroducing MERN techniques to get refamikiarized with the stack
+ Reintroducing MERN techniques to get refamiliarized with the stack
